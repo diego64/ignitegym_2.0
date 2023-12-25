@@ -3,6 +3,8 @@ import { Heading, HStack, Image, Text, VStack, Icon } from 'native-base';
 
 import { Entypo } from '@expo/vector-icons';
 
+
+
 type Props = TouchableOpacityProps & {
   
 };
